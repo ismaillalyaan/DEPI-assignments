@@ -28,4 +28,4 @@ This repository is a collection of Jupyter Notebooks designed to help users enha
 
 Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/python-practice.git
+  git clone https://github.com/ismaillalyaan/Python-Practice.git
